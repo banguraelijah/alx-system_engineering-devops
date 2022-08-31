@@ -1,1 +1,2 @@
-File is present
+#!/bin/bash
+pwd
