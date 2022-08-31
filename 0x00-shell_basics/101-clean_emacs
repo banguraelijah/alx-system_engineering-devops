@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -v 'file.c~'
+rm -v *[.c~]*
